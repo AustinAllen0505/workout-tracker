@@ -79,3 +79,6 @@ def view_personal_records(workouts):
 
     for exercise, weight in personal_records.items():
         print(f"{exercise}: {weight} lbs")
+
+
+#
